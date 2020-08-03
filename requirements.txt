@@ -5,3 +5,4 @@ bson==0.5.10
 Flask-PyMongo==2.3.0
 pymongo[srv]
 pymongo==3.11.0
+schedule==0.6.0
