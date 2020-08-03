@@ -3,4 +3,5 @@ gunicorn==19.9.0
 Werkzeug==0.15.5
 bson==0.5.10
 Flask-PyMongo==2.3.0
+pymongo[srv]
 pymongo==3.11.0
