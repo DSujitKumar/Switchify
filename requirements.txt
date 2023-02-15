@@ -1,6 +1,6 @@
 Flask==1.1.1
 gunicorn==19.9.0
-Werkzeug==0.15.5
+Werkzeug==2.2.3
 bson==0.5.10
 Flask-PyMongo==2.3.0
 pymongo[srv]
